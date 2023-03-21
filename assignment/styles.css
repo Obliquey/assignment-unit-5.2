@@ -7,11 +7,14 @@ header {
 
 main {
     padding: 1em;
+    color: darkmagenta;
+    text-align: center;
 }
 
 body {
     background-color: rgb(233, 232, 232);
     background-image: url("record.png");
+    background-size: contain;
     background-repeat: repeat-y | repeat-x;
     margin: 0;
 }
