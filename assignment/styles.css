@@ -6,12 +6,12 @@ header {
 }
 
 main {
-    background-color: lightgrey;
-    background-image: url("record.png");
-    background-repeat: repeat-x, repeat-y;
     padding: 1em;
 }
 
 body {
+    background-color: rgb(233, 232, 232);
+    background-image: url("record.png");
+    background-repeat: repeat-y | repeat-x;
     margin: 0;
 }
