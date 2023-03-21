@@ -2,10 +2,16 @@ header {
     background-color: darkolivegreen;
     color: whitesmoke;
     text-align: center;
+    margin-bottom: 0;
 }
 
 main {
     background-color: lightgrey;
     background-image: url("record.png");
-    background-repeat: repeat;
+    background-repeat: repeat-x, repeat-y;
+    padding: 1em;
+}
+
+body {
+    margin: 0;
 }
