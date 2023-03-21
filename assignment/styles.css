@@ -9,6 +9,7 @@
     padding: 1em;
     color: white;
     text-align: center;
+    background-color: darkolivegreen;
 }
 
 body {
@@ -19,5 +20,6 @@ body {
     margin: 0;
 }
 .list {
-    color: blue;
+    color: white;
+    text-align: left;
 }
